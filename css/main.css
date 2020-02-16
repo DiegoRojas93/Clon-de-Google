@@ -49,3 +49,40 @@ header nav{
     width: 25px;
     height: 25px;
 }
+
+main{
+    margin-top: 150px;
+    text-align: center;
+}
+
+.main-logo{
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+.main-logo img {
+    width: 300px;
+}
+
+.main-input{
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+main .main-input-container{
+    width: 520px;
+    border-radius: 100px;
+    border: 1px solid #dfe1e5;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
+main .main-input input{
+    width: 450px;
+    height: 40px;
+    border: none;
+    outline:none;
+}
